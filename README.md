@@ -1,4 +1,4 @@
-# Whack A Mole 
+# BakeOff 1
 This code was written as part of the Spring 2024 version of 05-391 (Designing Human-Centered Software) at Carnegie Mellon University. The goal of the project was to create a more efficient and intuitive alternative to the standard digital whack-a-mole game interface. 
 
 ## Overview
